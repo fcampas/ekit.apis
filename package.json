@@ -1,0 +1,14 @@
+{
+  "name": "ekit.apis",
+  "version": "0.0.1",
+  "description": "Ekit Api Plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "fcampas@kindlepublishing.com",
+  "license": "ISC",
+  "dependencies": {
+    "common-core-api": "*"
+  }
+}
